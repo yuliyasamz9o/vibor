@@ -1,0 +1,8 @@
+<select class="form-control transp_company">
+   <option value="1">Boxberry</option>
+              <option value="2" selected>SKS</option>
+              <option value="3">KIT</option>
+              <option value="4">PEK</option>
+              <option value="5">GTD</option>
+              <option value="6">DPD</option>
+                        </select>
